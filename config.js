@@ -27,36 +27,36 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/drak_ipul123'
+global.sig = 'http://instagram.com/davidpangrib001'
 global.syt = 'https://youtu.be/pwLZpdfO8AU'
-global.sgh = 'https://github.com/SaipulAnuar'
+global.sgh = 'https://github.com/David0l1'
 global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/62'
-global.swb = 'https://'
+global.swa = 'wa.me/6283171710709'
+global.swb = 'https://wf.onee-dev.my.id'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085755827288'
+global.pdana = '082128475388'
 global.povo = '-'
-global.pgopay = '088279268363'
-global.ppulsa = '085755827288'
-global.ppulsa2 = '-'
-global.psaweria = 'https://saweria.co/raraharsita2'
+global.pgopay = '-'
+global.ppulsa = '082128475388'
+global.ppulsa2 = '083171710709'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17326319049'
-global.nomorown = '6285755827288'
-global.namebot = 'Miko botz✓'
-global.nameown = 'ᴹᴿ᭄ Miko©'
+global.nomorbot = '628228475388'
+global.nomorown = '6283171710709'
+global.namebot = 'Onee-MD'
+global.nameown = 'David'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285755827288', 'miko kun', 'true']
+  ['6283171710709', 'Om David', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [6285755827288] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.prems = ['6283171710709'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -81,9 +81,9 @@ adiisus: 'https://adiixyzapi.herokuapp.com',
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'cristian9407',
+  'https://api.xteam.xyz': 'd37372311698ed1d',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'Xynoz',
+  'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
@@ -96,14 +96,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'Miko botz✓ | By ᴹᴿ᭄ miko' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ miko'
-global.wm3 = 'Miko botz | By ᴹᴿ᭄ Miko'
+global.wm = 'Simple WhatsApp Bot With Baileys Multi Device' //Main Watermark
+global.wm2 = 'Onee-MD'
+global.wm3 = 'Onee-MD by Davitt'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Yuki Adistyラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ Miko' 
-global.packname = 'ᴹᴿ᭄ Miko'
+global.titlebot = `Simple Whatsapp Bot`
+global.author = '⧠ One Botz\n\n\n\n\n\n\n\n\n\n\n\n\n⨠ wa.me/6282128475388\n\n' 
+global.packname = ''
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 
@@ -116,18 +116,18 @@ global.thumbs = ['https://telegra.ph/file/3dc0fb3c7ccc64efcbfce.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/3dc0fb3c7ccc64efcbfce.jpg'
-global.botintro = 'Hallo, Kenalin saya miko BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Halo, Aku One Bot, Yang Di Buat Oleh David. Jangan Spam Botnya Ya..'
 global.intro = 'https://telegra.ph/file/3dc0fb3c7ccc64efcbfce.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄ miko ×፝֟͜×'
-global.umurowner = '22'
-global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6285755827288'
-global.pacarowner = 'Kepo amat sih;v'
+global.nameowner = 'David'
+global.umurowner = '12'
+global.asalowner = 'Pluto'
+global.nomorowner = 'wa.me/6283171710709'
+global.pacarowner = 'YTTA'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
-global.eror = '```𝙉𝙤𝙩 𝙁𝙤𝙪𝙣𝙙 𝟰𝟬𝟰 𝙀𝙧𝙤𝙧```'
+global.eror = '```𝙉𝙤𝙩 𝙁𝙤𝙪𝙣𝙙 𝟰𝟬𝟰 𝙀𝙧𝙤𝙧𝙧```'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -136,7 +136,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
+global.thumbdoc = 'https://raw.githubusercontent.com/davidpangrib001/Haruka-Md/v9.2/bfb5ef78d9315a32c397c91e1be6c705.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
